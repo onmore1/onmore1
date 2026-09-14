@@ -3,7 +3,7 @@ Hey there, I'm Vadym Ananiev!
 Thanks for stopping by my README :)
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E4121,A46131&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=895129,895129&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0F4C81&width=435&lines=Hello%2C+I'm+Vadym+Ananiev;Software+Engineering+Student;Aspiring+Game+Developer" alt="Typing SVG"/>
