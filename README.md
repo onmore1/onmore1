@@ -7,7 +7,7 @@
 > Technical founder
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=onmore1&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F285787783%3Fu%3Da09b27ff609f13ce5072f10ed11b0a39d0a258af%26v%3D4" alt="onmore1 hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=onmore1&theme=satan" alt="onmore1 hero visual" />
 </p>
 
 </div>
@@ -17,7 +17,6 @@
 > Software engineer currently studying at Codam (42 Network), focused on low-level systems programming and game development
 
 - 📍 Based in **Amsterdam**
-- 👥 **0** followers · **0** following
 
 *Small, useful work over vague claims.*
 
