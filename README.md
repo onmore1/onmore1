@@ -3,10 +3,10 @@ Hey there, I'm Vadym Ananiev!
 Thanks for stopping by my README :)
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E4121,A46131&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B1220,1E293B&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0F4C81&width=435&lines=Hello%2C+I'm+Vadym+Ananiev;Software+Engineering+Student;Aspiring+Game+Developer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello%2C+I'm+Vadym+Ananiev;Software+Engineering+Student;Aspiring+Game+Developer" alt="Typing SVG"/>
 </a>
 
 ### About Me
@@ -36,4 +36,4 @@ Always exploring creative, efficient ways to solve problems — whether that's o
 </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E4121,A46131&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B1220,1E293B&height=120&section=footer" alt="footer"/>
