@@ -1,55 +1,39 @@
-## Building in public
+<!--
+Hey there, I'm Vadym Ananiev!
+Thanks for stopping by my README :)
+-->
 
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E4121,A46131&height=120&section=header" alt="header"/>
 
-# onmore1
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0F4C81&width=435&lines=Hello%2C+I'm+Vadym+Ananiev;Software+Engineering+Student;Aspiring+Game+Developer" alt="Typing SVG"/>
+</a>
 
-> Technical founder
+### About Me
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=onmore1&theme=satan" alt="onmore1 hero visual" />
-</p>
+Software engineering student at **Codam Coding College (42 Network)**, Amsterdam — focused on **low-level programming in C and C++**. Really into game development: I've taken part in game jams and I'm currently building a **PSX-style third-person game in Unity**. I also designed and built a travel website from scratch (PHP/MySQL), covering everything from custom session security to GDPR compliance.
 
+Always exploring creative, efficient ways to solve problems — whether that's optimizing a raycasting engine or shipping a small game for a jam deadline.
+
+### Main Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,unity,bash,git)](https://skillicons.dev)
+
+### Also Worked With
+
+[![Also Worked With](https://skillicons.dev/icons?i=php,mysql,css,html,ps)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/FL%20Studio-8B0000?style=for-the-badge" alt="FL Studio"/>
+
+### Connect with me!
+
+<div>
+<a href="https://www.linkedin.com/in/vadym-ananiev-6a290b336/">
+<img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+</a>
+<a href="https://djinni.co/my/profile/">
+<img src="https://img.shields.io/badge/Djinni-1A73E8?style=for-the-badge" alt="Djinni" height="35"/>
+</a>
 </div>
 
-## The point of view
-
-> Software engineer currently studying at Codam (42 Network), focused on low-level systems programming and game development
-
-- 📍 Based in **Amsterdam**
-
-*Small, useful work over vague claims.*
-
-## What I’m shipping
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=onmore1&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F285787783%3Fu%3Da09b27ff609f13ce5072f10ed11b0a39d0a258af%26v%3D4" alt="onmore1 highlights visual" />
-</p>
-
-<p><b>onmore1</b> is shipping 5 public projects with 1 stars of proof.</p>
-
-## Products and proof
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/onmore1/onmore1">onmore1</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-</table>
-
-## Momentum
-
-<table>
-<tr><td align="center"><b>5</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>21</b><br/><sub>contributions</sub></td></tr>
-</table>
-
-## Start a conversation
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=onmore1&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F285787783%3Fu%3Da09b27ff609f13ce5072f10ed11b0a39d0a258af%26v%3D4" alt="onmore1 social visual" />
-</p>
-
-<a href="https://github.com/onmore1">GitHub</a>
-
-<p align="center"><sub>onmore1 · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-
-
-
-okay can you smth like that
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E4121,A46131&height=120&section=footer" alt="footer"/>
