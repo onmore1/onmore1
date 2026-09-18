@@ -6,7 +6,7 @@ Thanks for stopping by my README :)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B1220,1E293B&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Software+Engineer;Game+Developer;Low-Level+Programmer;Problem+Solver" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Software+Engineer;Game+Developer;Low-Level+Programmer;" alt="Typing SVG"/>
 </a>
 
 ### About Me
