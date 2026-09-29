@@ -11,10 +11,7 @@ Thanks for stopping by my README :)
 
 ### About Me
 
-Software engineering student at **Codam Coding College (42 Network)**, Amsterdam — focused on **low-level programming in C and C++**. Really into game development: I've taken part in game jams and I'm currently building a **PSX-style third-person game in Unity**. I also designed and built a travel website from scratch (PHP/MySQL), covering everything from custom session security to GDPR compliance.
-
-Always exploring creative, efficient ways to solve problems — whether that's optimizing a raycasting engine or shipping a small game for a jam deadline.
-
+Software engineering student at **Codam Coding College (42 Network)**, Amsterdam — focused on **low-level programming in C and C++**.
 ### Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,unity,bash,git)](https://skillicons.dev)
